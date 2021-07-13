@@ -122,26 +122,26 @@ To create a WebRTC connection clients have to be able to transfer messages witho
 
 ### Installation
 
-- Install the [app]().
+- Install the [app]("https://video-ware.herokuapp.com/").
 
 **(OR)**
 
-1. Setup the server as given [here](https://github.com/varsha842/Teams-Clone-Server.git).
-
-
-2. Clone the repo
+1. Clone the repo
 ```sh
-git clone https://github.com/varsha842/Teams-Clone.git
+git clone https://github.com/dahiya-code/video-ware.git
 ```
-3. Install [Flutter](https://flutter.dev/docs/get-started/instal) on your device. Install the [Flutter Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) on VSCode.
-
-4. Connect your Android Device with USB debugging and Developer Mode activated.
-
-5. If you wish to use the Local Server instead of the Global One(default), exchange the commented links with their next lines after inserting your appropriate local IP adress [here](https://github.com/varsha842/Teams-Clone/blob/2a1815a9aa1f7685687cd75e7a67c2bc015df56a/lib/services/meet_api.dart#L6), [here](https://github.com/varsha842/Teams-Clone/blob/2a1815a9aa1f7685687cd75e7a67c2bc015df56a/lib/sdk/meeting.dart#L12) and [here](https://github.com/varsha842/Teams-Clone/blob/2a1815a9aa1f7685687cd75e7a67c2bc015df56a/lib/screen/MeetScreen.dart#L231).
-
-6. Run the [main.dart](https://github.com/varsha842/Teams-Clone/blob/main/lib/main.dart) file
-
-
+2. Install dependencies for the source and client folder using 
+```sh
+yarn install
+```
+3. For source folder run in Command prompt
+```sh
+node server.js
+```   
+4. For client folder run in Command prompt
+```sh
+yarn start
+```   
 ## **Snapshots :**
 
 <img width = "1000" src = "home.jpg">
