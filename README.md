@@ -144,9 +144,9 @@ git clone https://github.com/varsha842/Teams-Clone.git
 
 ## **Snapshots :**
 
-<img width = "800" src = "home.jpg">
-<img  width = "800" src = "vc.jpg">
-<img width = "800" src = "weather.jpg">
+<img width = "1000" src = "home.jpg">
+<img  width = "1000" src = "vc.jpg">
+<img width = "1000" src = "weather.jpg">
 
    
 <br/>
