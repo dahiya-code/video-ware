@@ -5,7 +5,7 @@ This is a Flutter project which uses Firebase for authentication and WebRTC for 
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-   <img width = "200" src="./assets/images/icon.png">
+   <img width = "200" src="client/public/logo.png">
 
    <h3 align="center">Microsoft Engage 2021 Challenge</h3>
    <p align ="center">
