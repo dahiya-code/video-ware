@@ -1,6 +1,6 @@
 # A Clone of Microsoft Teams
 
-This is a Flutter project which uses Firebase for authentication and WebRTC for Video Conferencing.
+This is a React project which uses WebRTC for Video Conferencing.
 
 <!-- PROJECT LOGO -->
 <br/>
@@ -65,24 +65,21 @@ Scrum is an **Agile** development methodology used in the development of softwar
 - #### **Week 1** : 
     1.  Learn about developement.
     2.  Decide tech stack and architecture.
-    3.  Learn **Flutter**.
+    3.  Learn **Node Js**.
     4.  Learn about Git and GitHub.
 
 - #### **Week 2** : 
     1.  Work on the User Interface.
     2.  Research about extra features.
-    3.  Exploration about Firebase and WebRTC.
-    4.  Complete Sign-in and Sign-up.
-    5.  Authenticate email and password.
-    #### *Bugs* : WebRTC implementation, Authentication.
+    3.  Exploration about WebRTC.
+    #### *Bugs* : WebRTC implementation.
 
 - #### **Week 3** :
-    1.  Add extra features like mute, camera off, switch camera.
-    2.  Add chat feature during video call.
-    3.  Implementation of WebRTC.
-    4.  Exploration about Servers.
-    5.  Run application on local server.
-    6.  Update UI(Add splash screen, Add loading widgets).
+    1.  Add extra feature (weather app)
+    2.  Implementation of WebRTC.
+    3.  Exploration about Servers.
+    4.  Run application on local server.
+    5.  Update UI.
     #### *Bugs* : Not working globally, bugs in server deployment.
 
 - #### **Week 4** :  
@@ -90,18 +87,18 @@ Scrum is an **Agile** development methodology used in the development of softwar
     2.  Server deployment on Heroku.
     3.  Global working(Testing on different networks).
     4.  Try to implement adapt feature.
-    5.  Create apk file(App deployment).
-    6.  Update README.
-    7.  Create demo video.
-    #### *Bugs* : Globally not working on some ISPs.
+    5.  Update README.
+    6.  Create demo video.
+    #### *Bugs* : Slow load time on some devices.
 
 
 
 ### **Built With**
-* [Flutter](https://flutter.dev/docs/get-started/install)
-* [Firebase](https://firebase.google.com/)
+* [React](https://reactjs.org/)
+* [Socket.IO](https://socket.io/)
 * [WebRTC](https://webrtc.org/)
 * [Nodejs](https://nodejs.org/en/)
+* [Weather API](https://openweathermap.org/api)
 
 ## **Architecture :**
 Clone uses Peer to Peer mesh architecture. Mesh architecture provides group video call functionality. WebRTC is used for the real time media communication between devices. WebRTC is a fully peer-to-peer technology for the real-time exchange of audio, video, and data, with one central caveat. Making this into a group call in P2P translates into a mesh network, where every WebRTC client has a peer connection opened to all other clients directly. When dealing with WebRTC and indicating Peer to Peer mesh, the focus is almost always on media transport. The signaling still flows through servers as WebRTC doesn't provide signaling which is essential for establishing connection.
