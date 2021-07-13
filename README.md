@@ -118,9 +118,7 @@ To create a WebRTC connection clients have to be able to transfer messages witho
 ## **Getting Started**
 
 ### Pre-requisites
-- [Basic setup of Flutter](https://flutter.dev/docs/get-started/install)
 - [Basic setup of VSCode](https://code.visualstudio.com/download)
-- [Server Setup](https://github.com/varsha842/Teams-Clone-Server.git)
 
 ### Installation
 
