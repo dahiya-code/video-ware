@@ -111,7 +111,7 @@ To create a WebRTC connection clients have to be able to transfer messages witho
 
 
 <p align="center">
-   <img width = "400" src="./images/building_the_server.jpg">
+   <img width = "400" src="connection.jpg">
 
 
 <!-- GETTING STARTED -->
