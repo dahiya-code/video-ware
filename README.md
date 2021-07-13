@@ -176,3 +176,4 @@ yarn start
 ## Acknowledgements
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [uuid](https://pub.dev/packages/uuid)
+- [simple-peer](https://www.npmjs.com/package/simple-peer)
