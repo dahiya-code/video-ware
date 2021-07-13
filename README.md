@@ -144,41 +144,35 @@ git clone https://github.com/varsha842/Teams-Clone.git
 
 ## **Snapshots :**
 
-<img width = "220" src = "./images/welcome.jpg">
-<img  width = "220" src = "./images/signup.jpg">
-<img width = "220" src = "./images/signin.jpg">
-<img  width = "220" src = "./images/meeting.jpg">
+<img width = "400" src = "home.jpg">
+<img  width = "400" src = "vc.jpg">
+<img width = "400" src = "weather.jpg">
 
-
-
+   
 <br/>
 
 <!-- ROADMAP -->
 ## Scope
 ### Features
 - Connectivity  for 4-5 participants
-- Allow chat during video call.
 - Invite by meeting ID.
-- Sign-in and sign-up authentication.
-- Camera switch.
+- Weather of any city in the world.
 
 
 ### Possible Improvements
-- Clone uses publically avalible free stun/turn servers, custom and dedicated stun/turn servers can be used to improve cross network connection capabilities.
+- Clone uses publically available free stun/turn servers, custom and dedicated stun/turn servers can be used to improve cross network connection capabilities.
 - SFU/MCU implementation can be used to reduce dependency on download/upload speed of individual network connection.
 - Share screen feature can be added.
 - Share link feature can be added.
+- User Authentication will be added.
+- Chat feature
 
 <!-- CONTACT -->
 ## Contact
-- Gmail : varshajangir75@gmail.com
-- Project : [https://github.com/varsha842/Teams-Clone](https://github.com/varsha842/Teams-Clone)
+- Gmail : d.navy2312@gmail.com
+- Project : [https://github.com/dahiya-code/video-ware](https://github.com/dahiya-code/video-ware)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 - [nodemon](https://www.npmjs.com/package/nodemon)
-- [sdp_transform](https://pub.dev/packages/sdp_transform)
 - [uuid](https://pub.dev/packages/uuid)
-- [eventify](https://pub.dev/packages/eventify)
-- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
-- [delayed_widget](https://pub.dev/packages/delayed_widget)
