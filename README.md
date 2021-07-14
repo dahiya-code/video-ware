@@ -10,9 +10,6 @@ This is a React project which uses WebRTC for Video Conferencing.
    <h3 align="center">Microsoft Engage 2021 Challenge</h3>
    <p align ="center">
    <br/>
-   <!-- Youtube Video Link -->
-   <a href="https://clipchamp.com/watch/PzBNCOC69VM">View Demo</a>
-   .
    <a href="https://video-ware.herokuapp.com/">Live Site</a>
    </p>
    </p>
