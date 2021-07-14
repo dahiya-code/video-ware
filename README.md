@@ -164,10 +164,6 @@ yarn start
 - User Authentication will be added.
 - Chat feature
 
-<!-- CONTACT -->
-## Contact
-- Gmail : d.navy2312@gmail.com
-- Project : [https://github.com/dahiya-code/video-ware](https://github.com/dahiya-code/video-ware)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
