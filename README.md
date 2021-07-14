@@ -139,11 +139,11 @@ node server.js
 ```sh
 yarn start
 ```   
-## **Snapshots :**
+<!-- ## **Snapshots :**
 
 <img width = "1000" src = "home.jpg">
 <img  width = "1000" src = "vc.jpg">
-<img width = "1000" src = "weather.jpg">
+<img width = "1000" src = "weather.jpg"> -->
 
    
 <br/>
